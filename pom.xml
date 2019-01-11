@@ -5,7 +5,8 @@
 	<artifactId>atas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-<!-- git test -->
+<!-- git test 1 -->
+<!-- git test 2-->
 	<name>atas app</name>
 	<url>http://maven.apache.org</url>
 
